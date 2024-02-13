@@ -24,6 +24,6 @@ Check our public repositories!
 [![Documentation](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff&style=for-the-badge)](https://equilibre-finance.gitbook.io/equilibre-v1/equilibre-finance/introducing)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@equilibre)
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,wasm,solidity)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,wasm,solidity)](https://skillicons.dev) -->
 
 <!-- </span> -->
