@@ -3,7 +3,7 @@
 # Équilibre Labs
 
 <div>
-<img align="left" src="https://raw.githubusercontent.com/equilibre-finance/.github/master/Equilibre_Labs.jpg" width="400">
+<img align="left" src="https://raw.githubusercontent.com/equilibre-finance/.github/main/profile/Equilibre_Labs.png" width="400">
 </div>
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@EquilibreAMM)
