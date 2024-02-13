@@ -8,6 +8,14 @@
 
 Équilibre Labs proposes a space of different platforms where users and protocols have access to sustainable returns as well a secure environment to interact with their digital assets.
 
+Check our public repositories!
+
+[Contracts](https://github.com/equilibre-finance/contracts)  -> Équilibre Finance mainnet contracts
+
+[Token List](https://github.com/equilibre-finance/tokens) -> Équilibre Finance token list
+
+[API](https://github.com/equilibre-finance/api) -> Équilibre Finance API
+<br clear="left"/>
 
 ---
 
@@ -17,16 +25,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@equilibre)
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,wasm,solidity)](https://skillicons.dev)
-
----
-
-Check our public repositories!
-
-[Contracts](https://github.com/equilibre-finance/contracts)  -> Équilibre Finance mainnet contracts
-
-[Token List](https://github.com/equilibre-finance/tokens) -> Équilibre Finance token list
-
-[API](https://github.com/equilibre-finance/api) -> Équilibre Finance API
-<br clear="left"/>
 
 <!-- </span> -->
