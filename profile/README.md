@@ -1,17 +1,28 @@
-<span align="center">
+<!-- <span align="center"> -->
 
-# equilibrefinance.com
+# Équilibre Labs
 
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/@EquilibreAMM)
-![Discord](https://img.shields.io/discord/1019716120304943245?color=black&label=discord&logo=discord&logoColor=white)
-![Documentation](https://img.shields.io/static/v1?label=&message=documentation&color=black&logo=gitbook&logoColor=white)
-[![medium](https://img.shields.io/static/v1?label=&message=medium&color=black&logo=medium&logoColor=white)](https://medium.com/@equilibre)
+<div>
+<img align="left" src="https://raw.githubusercontent.com/equilibre-finance/.github/master/Equilibre_Labs.jpg" width="400">
+</div>
 
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@EquilibreAMM)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Z8SuEE5MZf)
+[![Documentation](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff&style=for-the-badge)](https://equilibre-finance.gitbook.io/equilibre-v1/equilibre-finance/introducing)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@equilibre)
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,wasm,solidity)](https://skillicons.dev)
 
 ---
+Équilibre Labs proposes a space of different platforms where users and protocols have access to sustainable returns as well a secure environment to interact with their digital assets.
 
-<br />
+Check our public repositories!
 
-![Metrics](/profile/metrics.svg)
+[Contracts](https://github.com/equilibre-finance/contracts)  -> Équilibre Finance mainnet contracts
 
-</span>
+[Token List](https://github.com/equilibre-finance/tokens) -> Équilibre Finance token list
+
+[API](https://github.com/equilibre-finance/api) -> Équilibre Finance API
+<br clear="left"/>
+
+<!-- </span> -->
